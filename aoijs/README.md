@@ -44,3 +44,12 @@ Usage: `$imageAPI[index;endpoint;JSON Params;name.ext]`
 Example `$imageAPI[1;supreme;{"text": "Discord"};supreme.png]`
 
 ## Commands Preview
+
+#### 1. Beautiful
+![Beautiful](https://cdn.discordapp.com/attachments/895825126308847616/949838013918224414/canvas.png)
+#### 2. Eject
+![Eject](https://cdn.discordapp.com/attachments/895825126308847616/949838154079272990/ejected.gif)
+#### 3. Gay
+![Gay](https://cdn.discordapp.com/attachments/895825126308847616/949838231099293726/canvas.png)
+#### 4. Lisa
+![Lisa](https://cdn.discordapp.com/attachments/895825126308847616/949838998577229904/canvas.png)
