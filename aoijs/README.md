@@ -53,3 +53,11 @@ Example `$imageAPI[1;supreme;{"text": "Discord"};supreme.png]`
 ![Gay](https://cdn.discordapp.com/attachments/895825126308847616/949838231099293726/canvas.png)
 #### 4. Lisa
 ![Lisa](https://cdn.discordapp.com/attachments/895825126308847616/949838998577229904/canvas.png)
+#### 5. Magik
+![Magik](https://cdn.discordapp.com/attachments/895825126308847616/949841964885495868/file.png)
+#### 6. Santa
+![Santa](https://cdn.discordapp.com/attachments/895825126308847616/949842152488308747/canvas.png)
+#### 7. Ship
+![Ship](https://cdn.discordapp.com/attachments/895825126308847616/949842248219123802/ship.png)
+#### 8. Simp
+![Simp](https://cdn.discordapp.com/attachments/895825126308847616/949842321359384596/canvas.png)
