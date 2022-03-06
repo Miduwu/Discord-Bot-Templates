@@ -61,3 +61,11 @@ Example `$imageAPI[1;supreme;{"text": "Discord"};supreme.png]`
 ![Ship](https://cdn.discordapp.com/attachments/895825126308847616/949842248219123802/ship.png)
 #### 8. Simp
 ![Simp](https://cdn.discordapp.com/attachments/895825126308847616/949842321359384596/canvas.png)
+#### 9. Spotify
+![Spotify](https://cdn.discordapp.com/attachments/895825126308847616/949844224562585660/file.png)
+#### 10. Sus
+![Sus](https://cdn.discordapp.com/attachments/895825126308847616/949845282680631336/file.png)
+#### 11. Tweet
+![Tweet](https://cdn.discordapp.com/attachments/895825126308847616/949845601481293945/file.png)
+#### 12. Ukraine
+![Ukraine](https://cdn.discordapp.com/attachments/895825126308847616/949845912606363668/file.png)
