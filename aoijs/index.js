@@ -57,7 +57,7 @@ loader.load(bot.cmd,"./commands/",true)
 
 // Setup the API
 const TAPI = require('@midowo/t-api.js')
-const api = new TAPI.All('ilovemidnightuwu')
+const api = new TAPI.All('YOUR_API_KEY') // If you don't have one join our support server
 // Connect the API with our bot
 const ApiUtil = new TAPI.Util(api)
 ApiUtil.connect_aoi(bot, {
