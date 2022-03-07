@@ -18,7 +18,8 @@ const ApiUtil = new TAPI.Util(api)
 ApiUtil.connect_aoi(bot, {
   attachments: '$attachmentAPI',
   embeds: '$imageAPI',
-  objects: '$requestAPI'
+  objects: '$requestAPI',
+  result: '$getProperty'
 })
 ```
 
@@ -27,9 +28,17 @@ You can use these functions in your normal aoi.js bot codes
 
 **Objects**
 
-Usage: `$requestAPI[group(json/anime);endpoint;JSON Params;property;Error message;Log in console?(true/false)]`
+Usage:
+```js
+$getProperty[property]
+$requestAPI[group(json/anime);endpoint;JSON Params;Error message;Log in console?(true/false)]
+```
 
-Example: `$requestAPI[json;translate;{"text": "Hola mundo!", "source": "auto", "target": "en"};data.translated;Something went wrong]`
+Example: 
+```js
+$getProperty[data.translated]
+$requestAPI[json;translate;{"text": "Hola mundo!", "source": "auto", "target": "en"};Something went wrong]
+```
 
 **Images in attachments**
 
