@@ -63,5 +63,6 @@ const ApiUtil = new TAPI.Util(api)
 ApiUtil.connect_aoi(bot, {
     embeds: "$setImage",
     attachments: "$sendAttachment",
-    objects: "$requestAPI"
+    objects: "$requestAPI",
+    result: "$getProperty"
 })
