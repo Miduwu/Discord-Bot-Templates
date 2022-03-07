@@ -61,8 +61,8 @@ const api = new TAPI.All('YOUR_API_KEY') // If you don't have one join our suppo
 // Connect the API with our bot
 const ApiUtil = new TAPI.Util(api)
 ApiUtil.connect_aoi(bot, {
-    embeds: "$setImage",
-    attachments: "$sendAttachment",
+    embeds: "$imageAPI",
+    attachments: "$attachmentAPI",
     objects: "$requestAPI",
     result: "$getProperty"
 })
