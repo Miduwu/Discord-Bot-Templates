@@ -2,6 +2,7 @@ module.exports = {
     name: 'calendar',
     code: `
     **:calendar: Calendar:**
-    \`\`\`$requestAPI[json;calendar;{};data.calendar]\`\`\`
+    \`\`\`$getProperty[data.calendar]\`\`\`
+    $requestAPI[json;calendar;{};Something went wrong]
     `
 }
