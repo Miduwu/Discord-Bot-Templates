@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@midowo/t-api.js": "^1.2.0",
+    "@midowo/t-api.js": "^2.0.0",
     "aoi.js": "^5.1.0",
     "axios": "^0.21.1"
   }
